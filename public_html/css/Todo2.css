@@ -22,7 +22,7 @@ main {
 
 .blog-post-meta {
     margin-bottom: 20px;
-    color: black;
+    color: darkslategray;
     font-style:italic;
 }
 
@@ -37,13 +37,13 @@ main {
 }
 
 h1, h4, h6, h2, .words{
-    color: black;
+    color: darkslategray;
     font-family: 'Press Start 2P', cursive;
 }
 
 
     header, main, footer {
-      color: black;
+      color: darkslategray;
       text-align: center;
       font-family: 'Press Start 2P', cursive;
     }
